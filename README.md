@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Yukio 
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning in college
+- 💞️ I’m looking to collaborate on projects for my portfolio 
+- 📫 How to reach me https://www.linkedin.com/in/yukio-rivera/
