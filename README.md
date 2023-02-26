@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yukio 
 - 👀 I’m interested in software development
-- 🌱 Graduate with degrees in COmputer Science and Psychology 
+- 🌱 Graduate with degrees in Computer Science and Psychology 
 - 💞️ I’m looking to collaborate on projects for my portfolio 
 - 📫 How to reach me https://www.linkedin.com/in/yukio-rivera/
